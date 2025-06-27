@@ -1,0 +1,1 @@
+print("faqat test1 ni ichida bu")
